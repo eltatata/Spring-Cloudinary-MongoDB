@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JavaCloudinaryApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(JavaCloudinaryApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(JavaCloudinaryApplication.class, args);
+  }
 
 }
